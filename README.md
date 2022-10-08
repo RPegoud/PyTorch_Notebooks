@@ -3,9 +3,9 @@
 Self study of the PyTorch library, including :
 * Classic Regression and Classification
 * ANN
+* CNN
 
 (Coming soon) :
-* CNN
 * RNN, time series
 * NLP
 * Recommendation systems
